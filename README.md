@@ -4,5 +4,5 @@
 
 ### What I learned:
 - Composite pattern
-- 
+- Red-black tree
 
