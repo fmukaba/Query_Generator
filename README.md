@@ -3,6 +3,6 @@
 ### For a description of this project, read README.pdf or click [here](https://github.com/fxnolimit/Query_Generator/blob/master/Requirements.pdf)
 
 ### What I have learned:
-- Composite pattern
-- Red-black tree
+    Composite pattern
+    Red-black tree
 
